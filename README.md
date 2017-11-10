@@ -1,0 +1,2 @@
+# myMongoGridFs
+FirstLearningAboutMongoGridFs
